@@ -1,0 +1,27 @@
+{
+  "projects": [
+    {
+      "name": "منصة التحليلات الموحدة",
+      "summary": "منصة مركزية لتوحيد بيانات الأقسام المختلفة.",
+      "status": "on-track",
+      "progress": 0.82,
+      "due_date": "2024-05-30",
+      "owner": "ليان السالم"
+    },
+    {
+      "name": "تطبيق المحمول للمدراء",
+      "summary": "تطبيق iOS وAndroid لعرض مؤشرات الأداء.",
+      "status": "at-risk",
+      "progress": 0.47,
+      "due_date": "2024-06-20",
+      "owner": "سامي العبدالله"
+    }
+  ],
+  "notifications": [
+    {
+      "title": "تنبيه تأخير",
+      "description": "المشروع التجاري متأخر أسبوعين عن الخطة.",
+      "severity": "critical"
+    }
+  ]
+}
